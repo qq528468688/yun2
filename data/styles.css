@@ -10,6 +10,8 @@
   line-height:normal;
   text-transform:none;
 }
+._图片 {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -141,12 +143,12 @@
 }
 .box_3 {
 }
-._图片 {
+._图片1 {
   color:#000000;
 }
 .line {
 }
-._图片1 {
+._图片2 {
 }
 .ellipse {
 }
@@ -196,7 +198,10 @@
 .primary_button {
   color:#FFFFFF;
 }
-._图片2 {
+.link_button {
+  color:#169BD5;
+}
+._图片3 {
   color:#000000;
 }
 ._文本框1 {
@@ -216,6 +221,9 @@
 }
 .html_button1 {
   text-align:center;
+}
+.tree_node {
+  text-align:left;
 }
 .droplist {
   color:#000000;
@@ -288,6 +296,9 @@
 }
 ._文本框2 {
   color:#000000;
+  text-align:left;
+}
+.checkbox3 {
   text-align:left;
 }
 textarea, select, input, button { outline: none; }
